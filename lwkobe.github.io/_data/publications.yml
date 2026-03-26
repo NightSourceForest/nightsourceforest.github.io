@@ -1,0 +1,112 @@
+main:
+  - title: "Kinetic Free-Surface Flows and Foams with Sharp Interfaces"
+    authors: Haoxiang Wang, Kui Wu, Hui Qiao, Mathieu Desbrun, <strong>Wei Li</strong>
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (SIGGRAPH ASIA), 44(6), Article 266, accepted for publication, 2025 (CCF-A journal).
+    # page: https://simulation.seaweed.video/
+    # pdf: https://arxiv.org/pdf/2503.20822
+    image: images/pub_siga25.png
+  
+  - title: "Graphics processing unit accelerated high-order moment-encoded Lattice Boltzmann method for liquid-vapor phase-change simulations"
+    authors: <strong>Wei Li</strong>, Linlin Fei, Ya-Ling He
+    conference: Pof
+    journal: Physics of Fluids 2025.
+    # page: https://simulation.seaweed.video/
+    # pdf: https://arxiv.org/pdf/2503.20822
+    image: images/pub_pof25.jpg  
+  - title: "Learning to Control Free-Form Soft Swimmers"
+    authors: Changyu Hu, Yanke Qu, Qiuan Yang, Xiaoyu Xiong, Kui Wu, <strong>Wei Li</strong>, Tao Du
+    conference: NeurIPS
+    journal: NeurIPS, 2025.
+    # page: https://simulation.seaweed.video/
+    # pdf: https://arxiv.org/pdf/2503.20822
+    image: images/pub_nips25.png
+
+  - title: "Fast Simulation of Rigid Body Interactions Underwater"
+    authors: Tianhong Gao, Xuwen Chen, Xingqiao Li, <strong>Wei Li</strong>, Baoquan Chen, Zherong Pan, Kui Wu, Mengyu Chu
+    conference: PG
+    journal: Pacific Graphics 2025.
+    # page: https://simulation.seaweed.video/
+    # pdf: https://arxiv.org/pdf/2503.20822
+    image: images/pub_pg25.jpg
+
+  - title: "Kinetic Simulation of Turbulent Multifluid Flows"
+    authors: <strong>Wei Li</strong>, Kui Wu, Mathieu Desbrun
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG), 43(4), Article 55, 2024 (CCF-A journal).
+    page: https://kuiwuchn.github.io/multilbm.html
+    image: images/pub_sig24.jpg
+
+  - title: "Hybrid LBM-FVM Solver for Two-Phase Flow Simulation"
+    authors: Yihui Ma, Xiaoyu Xiao, <strong>Wei Li</strong>, Mathieu Desbrun, Xiaopei Liu
+    conference: JCP
+    journal: Journal of Computational Physics (JCP), accepted for publication, 2024.
+    image: images/pub_jcp24.png
+
+  - title: "Visual-Preserving Mesh Repair"
+    authors: Zhongtian Zheng, Xifeng Gao, Zherong Pan, <strong>Wei Li</strong>, Peng-Shuai Wang, Guoping Wang, Kui Wu
+    conference: TVCG
+    journal: IEEE Transactions on Visualization and Computer Graphics (TVCG), accepted for publication, 2024 (CCF-A journal).
+    page: https://kuiwuchn.github.io/VPMR.html
+    image: images/pub10.jpg
+
+  - title: "High-Order Moment-Encoded Kinetic Simulation of Turbulent Flows"
+    authors: <strong>Wei Li</strong>, Tongtong Wang, Zherong Pang, Xifeng Gao, Kui Wu, Mathieu Desbrun
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (TOG), 42(6), 2023 (CCF-A journal).
+    page: https://kuiwuchn.github.io/homelbm.html
+    image: images/pub9.jpg
+
+  - title: "Fluid-Solid Coupling in Kinetic Two-Phase Flow Simulation"
+    authors: <strong>Wei Li</strong>, Mathieu Desbrun
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG), 2023 (CCF-A journal).
+    page: http://www.geometry.caltech.edu/pubs/LD23.pdf
+    image: images/pub8.jpg
+
+  - title: "Efficient Kinetic Simulation of Two-Phase Flows"
+    authors: <strong>Wei Li</strong>, Yihui Ma, Xiaopei Liu, Mathieu Desbrun
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG), 2022 (CCF-A journal).
+    page: http://www.geometry.caltech.edu/pubs/LMLD22.pdf
+    image: images/pub7.png
+
+  - title: "Fast and Versatile Fluid-Solid Coupling for Turbulent Flow Simulation"
+    authors: Chaoyang Lyu, <strong>Wei Li</strong>, Mathieu Desbrun, Xiaopei Liu
+    conference: SIGGRAPH Asia
+    journal: ACM Transactions on Graphics (TOG), 40(6), Article 1, 2021 (CCF-A journal).
+    page: https://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-general-couple/index.htm
+    image: images/pub5.jpg
+
+  - title: "GPU Optimization for High-Quality Kinetic Fluid Simulation"
+    authors: Yixin Chen, <strong>Wei Li</strong>, Rui Fan, Xiaopei Liu
+    conference: TVCG
+    journal: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2021 (CCF-A journal).
+    page: https://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-acc/index.htm
+    image: images/pub_gpu.png
+
+  - title: "Dynamic Upsampling of Smoke through Dictionary-based Learning"
+    authors: Kai Bai, <strong>Wei Li</strong>, Mathieu Desbrun, Xiaopei Liu
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG), 40(1), Article 4, 2020, presented at SIGGRAPH 2021 (CCF-A journal).
+    page: http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/ss_dbnn/index.htm
+    image: images/pub4.png
+
+  - title: "Fast and Scalable Turbulent Flow Simulation with Two-Way Coupling"
+    authors: <strong>Wei Li</strong>, Yixin Chen, Mathieu Desbrun, Changxi Zheng, Xiaopei Liu
+    conference: SIGGRAPH
+    journal: ACM Transactions on Graphics (TOG), 39(4), Article 47, 2020 (CCF-A journal).
+    page: http://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/projects/lbm-solid/index.htm
+    image: images/pub3.png
+
+  - title: "Kinetic-based Multiphase Flow Simulation"
+    authors: <strong>Wei Li</strong>, Daoming Liu, Mathieu Desbrun, Jin Huang, Xiaopei Liu
+    conference: TVCG
+    journal: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2020 (CCF-A journal).
+    image: images/pub2.png
+
+  - title: "Continuous-Scale Kinetic Fluid Simulation"
+    authors: <strong>Wei Li</strong>, Kai Bai, Xiaopei Liu
+    conference: TVCG
+    journal: IEEE Transactions on Visualization and Computer Graphics (TVCG), 2018 (CCF-A journal).
+    image: images/pub1.png
