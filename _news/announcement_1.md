@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-08-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 Our paper <em>Kinetic Free-Surface Flows and Foams with Sharp Interfaces</em> has been accepted to <strong>SIGGRAPH Asia 2025</strong>!
