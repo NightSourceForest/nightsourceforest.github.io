@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Associate Professor</p>
+    <p><b>Li Wei</b>, Associate Professor</p>
     <p>John Hopcroft Center for Computer Science</p>
     <p>Shanghai Jiao Tong University</p>
     <p>Shanghai, China</p>
